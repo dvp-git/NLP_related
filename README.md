@@ -1,2 +1,2 @@
 # NLP_related
-A repository for NLP and Hugging Face Transformers
+A repository for NLP relatd models
